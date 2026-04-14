@@ -13,6 +13,6 @@ Results:
 * Better at predicting non-default vs default clients
 
 Insights:
-Payment behavior is more predictive than demographics
-Higher credit limits leads to lower default risk
-Late payments strongly increase default probability
+* Payment behavior is more predictive than demographics
+* Higher credit limits leads to lower default risk
+* Late payments strongly increase default probability
