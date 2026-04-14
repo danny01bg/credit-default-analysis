@@ -20,3 +20,7 @@ Insights:
 Team: Danny Grozdev, Alexa Asis, Corey Jordan-Zamora, Preeti Sharma, Peter Szczepanski
 
 This project was completed as part of a group assignment at DePaul University.
+
+Visual Results:
+<img width="864" height="600" alt="image" src="https://github.com/user-attachments/assets/80e5ee08-82ba-4903-842c-139d5f81e51b" />
+
