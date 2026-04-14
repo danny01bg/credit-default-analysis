@@ -16,3 +16,12 @@ Insights:
 * Payment behavior is more predictive than demographics
 * Higher credit limits leads to lower default risk
 * Late payments strongly increase default probability
+
+Team:
+Danny Grozdev
+Alexa Asis
+Corey Jordan-Zamora
+Preeti Sharma
+Peter Szczepanski
+
+This project was completed as part of a group assignment at DePaul University.
