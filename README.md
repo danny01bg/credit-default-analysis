@@ -26,7 +26,7 @@ Visual Results:
 
 <img width="864" height="600" alt="image" src="https://github.com/user-attachments/assets/80e5ee08-82ba-4903-842c-139d5f81e51b" />
 
-<img width="747" height="724" alt="image" src="https://github.com/user-attachments/assets/63fa65ab-ec22-4b16-98ef-6a5eb48f0393" />
+<img width="864" height="724" alt="image" src="https://github.com/user-attachments/assets/63fa65ab-ec22-4b16-98ef-6a5eb48f0393" />
 
-<img width="809" height="724" alt="image" src="https://github.com/user-attachments/assets/1a17b1b0-1810-492e-b1d5-36c251a42cfc" />
+<img width="864" height="724" alt="image" src="https://github.com/user-attachments/assets/1a17b1b0-1810-492e-b1d5-36c251a42cfc" />
 
